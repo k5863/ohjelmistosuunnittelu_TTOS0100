@@ -20,3 +20,5 @@ Snakes|2000
 [Ohjeita githubiin](https://guides.github.com/)
 
 :)
+
+[Palvelumuotojen työkaluja](http://sdt.fi/index.html)
